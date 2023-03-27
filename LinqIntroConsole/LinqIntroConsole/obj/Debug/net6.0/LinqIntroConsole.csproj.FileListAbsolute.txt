@@ -1,0 +1,15 @@
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\bin\Debug\net6.0\LinqIntroConsole.exe
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\bin\Debug\net6.0\LinqIntroConsole.deps.json
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\bin\Debug\net6.0\LinqIntroConsole.runtimeconfig.json
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\bin\Debug\net6.0\LinqIntroConsole.dll
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\bin\Debug\net6.0\LinqIntroConsole.pdb
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\LinqIntroConsole.csproj.AssemblyReference.cache
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\LinqIntroConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\LinqIntroConsole.AssemblyInfoInputs.cache
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\LinqIntroConsole.AssemblyInfo.cs
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\LinqIntroConsole.csproj.CoreCompileInputs.cache
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\LinqIntroConsole.dll
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\refint\LinqIntroConsole.dll
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\LinqIntroConsole.pdb
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\LinqIntroConsole.genruntimeconfig.cache
+C:\Users\rolle\source\repos\LinqIntroConsole\LinqIntroConsole\obj\Debug\net6.0\ref\LinqIntroConsole.dll
